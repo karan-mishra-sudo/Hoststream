@@ -3,7 +3,7 @@
   "builds": [
     {
       "src": "vite.config.js",
-      "use": "@vitejs/plugin-react" // or "@vitejs/plugin-vue" if using Vue
+      "use": "@vitejs/plugin-react" 
     }
   ],
   "routes": [
